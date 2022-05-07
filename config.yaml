@@ -1,26 +1,24 @@
-baseurl: https://example.com
+baseurl:
 languageCode: en-us
+relativeURLs: "True"
+publishDir: docs
 theme: hugo-theme-stack
+
 paginate: 5
-title: Example Site
+title: ElegantLaTeX
 
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: ElegantLaTeX
         weight: 1
     zh-cn:
         languageName: 中文
-        title: 演示站点
+        title: ElegantLaTeX
         weight: 2
-    ar:
-        languageName: عربي
-        languagedirection: rtl
-        title: موقع تجريبي
-        weight: 3
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: 
 
 # GA Tracking ID
 googleAnalytics:
@@ -53,8 +51,8 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 
+        subtitle: Elegant LaTeX Templates
         avatar:
             enabled: true
             local: true
@@ -69,7 +67,7 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
+        enabled: false
         provider: disqus
 
         disqusjs:
@@ -197,15 +195,10 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/ElegantLaTeX/
           params:
               icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
-          params:
-              icon: brand-twitter
 
 related:
     includeNewer: true
