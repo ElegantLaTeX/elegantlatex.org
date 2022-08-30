@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/zh-cn/</loc>
-    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>/zh-cn/categories/</loc>
-    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>/zh-cn/tags/elegantlatex/</loc>
-    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -41,34 +41,21 @@
                 href="/zh-cn/tags/elegantlatex/"
                 />
   </url><url>
-    <loc>/zh-cn/p/elegantlatex-%E7%BD%91%E7%AB%99%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
+    <loc>/zh-cn/p/elegantlatex-%E7%AE%80%E4%BB%8B/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/p/the-new-site-of-elegantlatex/"
+                href="/p/elegantlatex-introduction/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/p/elegantlatex-%E7%BD%91%E7%AB%99%E6%B5%8B%E8%AF%95/"
-                />
-  </url><url>
-    <loc>/zh-cn/tags/latex/</loc>
-    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/latex/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/tags/latex/"
+                href="/zh-cn/p/elegantlatex-%E7%AE%80%E4%BB%8B/"
                 />
   </url><url>
     <loc>/zh-cn/categories/latex/</loc>
-    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -81,7 +68,7 @@
                 />
   </url><url>
     <loc>/zh-cn/post/</loc>
-    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -94,7 +81,7 @@
                 />
   </url><url>
     <loc>/zh-cn/tags/</loc>
-    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -107,33 +94,10 @@
                 />
   </url><url>
     <loc>/zh-cn/tags/templates/</loc>
-    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/templates/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/tags/templates/"
-                />
-  </url><url>
-    <loc>/zh-cn/tags/themes/</loc>
-    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/tags/themes/"
-                />
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/zh-cn/categories/themes/</loc>
-    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

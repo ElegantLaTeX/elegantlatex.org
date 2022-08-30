@@ -7,13 +7,47 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>The New Site of ElegantLaTeX</title>
-        <link>/p/the-new-site-of-elegantlatex/</link>
+        <title>ElegantLaTeX Introduction</title>
+        <link>/p/elegantlatex-introduction/</link>
         <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
         
-        <guid>/p/the-new-site-of-elegantlatex/</guid>
-        <description>&lt;img src="/p/the-new-site-of-elegantlatex/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post The New Site of ElegantLaTeX" /&gt;&lt;p&gt;This article offers a sample of usage of ElegantLaTeX&lt;/p&gt;
-&lt;h1 id=&#34;hello-elegantlatex&#34;&gt;Hello ElegantLaTeX&lt;/h1&gt;
+        <guid>/p/elegantlatex-introduction/</guid>
+        <description>&lt;img src="/p/elegantlatex-introduction/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post ElegantLaTeX Introduction" /&gt;&lt;h2 id=&#34;elegantlatex-introduction&#34;&gt;ElegantLaTeX introduction&lt;/h2&gt;
+&lt;p&gt;ElegantLaTeX Program is created by &lt;a class=&#34;link&#34; href=&#34;https://github.com/EthanDeng&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Ethan Deng&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://github.com/Liam0205&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Liam Huang&lt;/a&gt;, and maintained by &lt;a class=&#34;link&#34; href=&#34;https://github.com/EthanDeng&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Ethan Deng&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://github.com/syvshc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;syvshc&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://github.com/sikouhjw&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;sikouhjw&lt;/a&gt;. We are intended to provide some beautiful, elegant, user-friendly templates.&lt;/p&gt;
+&lt;p&gt;Currently, the ElegantLaTeX is composed of &lt;a class=&#34;link&#34; href=&#34;https://github.com/ElegantLaTeX/ElegantNote&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ElegantNote&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://github.com/ElegantLaTeX/ElegantBook&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ElegantBook&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://github.com/ElegantLaTeX/ElegantPaper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ElegantPaper&lt;/a&gt;, which designed for typesetting notes, books, and working papers respectively.&lt;/p&gt;
+&lt;h2 id=&#34;get-the-templates&#34;&gt;Get the templates&lt;/h2&gt;
+&lt;p&gt;The latest version of templates are released at:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub: &lt;a class=&#34;link&#34; href=&#34;https://github.com/ElegantLaTeX/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/ElegantLaTeX/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CTAN: &lt;a class=&#34;link&#34; href=&#34;https://ctan.org/pkg/elegantbook&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://ctan.org/pkg/elegantbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Overleaf: &lt;a class=&#34;link&#34; href=&#34;https://www.overleaf.com/latex/templates?q=elegantbook&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.overleaf.com/latex/templates?q=elegantbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;LaTeXStudio: &lt;a class=&#34;link&#34; href=&#34;https://www.latexstudio.net/index/lists/barSearch/text/elegantbook&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.latexstudio.net/index/lists/barSearch/text/elegantbook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;p&gt;For any other questions, suggestions or comments, feel free to contact us via&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github issues: &lt;a class=&#34;link&#34; href=&#34;https://github.com/ElegantLaTeX/ElegantBook/issues&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/ElegantLaTeX/ElegantBook/issues&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tencent QQ Group：692108391&lt;/li&gt;
+&lt;li&gt;Website: &lt;a class=&#34;link&#34; href=&#34;https://elegantlatex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://elegantlatex.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Weibo: ElegantLaTeX&lt;/li&gt;
+&lt;li&gt;Wechat: ElegantLaTeX&lt;/li&gt;
+&lt;li&gt;Bilibili: &lt;a class=&#34;link&#34; href=&#34;https://space.bilibili.com/516479629&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://space.bilibili.com/516479629&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>

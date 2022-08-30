@@ -41,17 +41,17 @@
                 href="/tags/elegantlatex/"
                 />
   </url><url>
-    <loc>/tags/latex/</loc>
+    <loc>/p/elegantlatex-introduction/</loc>
     <lastmod>2022-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/tags/latex/"
+                href="/zh-cn/p/elegantlatex-%E7%AE%80%E4%BB%8B/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/latex/"
+                href="/p/elegantlatex-introduction/"
                 />
   </url><url>
     <loc>/categories/latex/</loc>
@@ -93,44 +93,8 @@
                 href="/tags/"
                 />
   </url><url>
-    <loc>/tags/templates/</loc>
-    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/tags/templates/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/templates/"
-                />
-  </url><url>
-    <loc>/p/the-new-site-of-elegantlatex/</loc>
-    <lastmod>2022-05-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/p/elegantlatex-%E7%BD%91%E7%AB%99%E6%B5%8B%E8%AF%95/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/p/the-new-site-of-elegantlatex/"
-                />
-  </url><url>
     <loc>/tags/themes/</loc>
     <lastmod>2022-05-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/themes/"
-                />
   </url><url>
     <loc>/categories/themes/</loc>
     <lastmod>2022-05-07T00:00:00+00:00</lastmod>

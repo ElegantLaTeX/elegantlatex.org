@@ -1,13 +1,11 @@
 +++
 author = "Ethan Deng"
-title = "ElegantLaTeX 网站测试"
-date = "2022-05-07"
-description = "hello world"
+title = "ElegantLaTeX 简介"
+date = "2022-08-30"
+description = "关于项目组的简介"
 tags = [
-    "latex",
     "templates",
-    "elegantlatex",
-    "themes",
+    "elegantlatex"
 ]
 categories = [
     "themes",
@@ -18,11 +16,29 @@ aliases = ["introduction"]
 image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 +++
 
-This article offers a sample of usage of ElegantLaTeX
+
+## ElegantLaTeX 简介
+
+ElegantLaTeX 项目组致力于打造一系列美观、优雅、简便的模板方便用户使用，由 [Ethan Deng](https://github.com/EthanDeng) 和 [Liam Huang](https://github.com/Liam0205) 创立。目前由书籍模板 ElegantBook、工作论文模板 ElegantPaper 和笔记模板 ElegantNote 组成，现在主要由 [Ethan Deng](https://github.com/EthanDeng)、[乙醇](https://github.com/syvshc)和[死抠](https://github.com/sikouhjw)维护。
+
+## 发布站点
+
+现在 ElegantLaTeX 的模板更新主要在如下站点：
+
++ GitHub：[https://github.com/ElegantLaTeX/](https://github.com/ElegantLaTeX/)
++ CTAN：如 [https://ctan.org/pkg/elegantbook](https://ctan.org/pkg/elegantbook)
++ Overleaf：如 [https://www.overleaf.com/latex/templates?q=elegantbook](https://www.overleaf.com/latex/templates?q=elegantbook)
++ LaTeXStudio：如 [https://www.latexstudio.net/index/lists/barSearch/text/elegantbook](https://www.latexstudio.net/index/lists/barSearch/text/elegantbook)
+
+## 联系方式
+
+如果您在使用模板的过程中有问题或者建设性意见，欢迎联系我们。我们的联系方式如下：
+
++ 用户 QQ 群：692108391 (加群请备注 ElegantLaTeX)
++ Github 对应的 issues：如 [https://github.com/ElegantLaTeX/ElegantBook/issues](https://github.com/ElegantLaTeX/ElegantBook/issues)
++ 官网：[https://elegantlatex.org/](https://elegantlatex.org/)
++ 微博：ElegantLaTeX
++ 微信公众号：ElegantLaTeX
++ Bilibili：[https://space.bilibili.com/516479629](https://space.bilibili.com/516479629)
 
 
-## 你好，ElegantLaTeX
-
-而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 我们不得不面对一个非常尴尬的事实，那就是， 可是，即使是这样，学生会退会的出现仍然代表了一定的意义。 学生会退会，发生了会如何，不发生又会如何。 经过上述讨论， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 学生会退会，到底应该如何实现。 这样看来， 在这种困难的抉择下，本人思来想去，寝食难安。 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 就我个人来说，学生会退会对我的意义，不能不说非常重大。 莎士比亚曾经提到过，人的一生是短的，但如果卑劣地过这一生，就太长了。这似乎解答了我的疑惑。 莫扎特说过一句富有哲理的话，谁和我一样用功，谁就会和我一样成功。这启发了我， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 学生会退会，到底应该如何实现。 一般来说， 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚学生会退会到底是一种怎么样的存在，是解决一切问题的关键。 一般来说， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 问题的关键究竟为何？ 而这些并不是完全重要，更加重要的问题是。
-
-奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 带着这些问题，我们来审视一下学生会退会。 我认为， 我认为， 在这种困难的抉择下，本人思来想去，寝食难安。 问题的关键究竟为何？ 每个人都不得不面对这些问题。 在面对这种问题时， 要想清楚，学生会退会，到底是一种怎么样的存在。 我认为， 既然如此， 每个人都不得不面对这些问题。 在面对这种问题时， 那么， 我认为， 学生会退会因何而发生。
