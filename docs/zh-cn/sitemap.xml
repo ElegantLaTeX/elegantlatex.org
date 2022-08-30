@@ -67,6 +67,19 @@
                 href="/zh-cn/categories/latex/"
                 />
   </url><url>
+    <loc>/zh-cn/page/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="/zh-cn/page/"
+                />
+  </url><url>
     <loc>/zh-cn/post/</loc>
     <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -109,17 +122,17 @@
                 href="/zh-cn/categories/themes/"
                 />
   </url><url>
-    <loc>/zh-cn/page/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/page/"
+                href="/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/page/"
+                href="/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url><url>
     <loc>/zh-cn/archives/</loc>
@@ -133,18 +146,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="/zh-cn/archives/"
-                />
-  </url><url>
-    <loc>/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url><url>
     <loc>/zh-cn/search/</loc>
